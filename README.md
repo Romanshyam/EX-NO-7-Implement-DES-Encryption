@@ -1,6 +1,6 @@
 # EX-NO-7-Implement-DES-Encryption-and-Decryption
-# Name: SHYAM KUMAR E
-# Reg No: 212223230207
+## Name: SHYAM KUMAR E
+## Reg No: 212223230207
 
 ## Aim:
 
